@@ -1,0 +1,24 @@
+Case 1: 1A 2M
+Case 2: 2M
+Case 3: 1A 2M
+Case 4: 3M
+Case 5: empty
+Case 6: 1A 2M
+Case 7: 2M
+Case 8: 1A 1M
+Case 9: 1A 2M
+Case 10: 1A 3M
+Case 11: 14A 1M 1A 2M
+Case 12: 1A 1M 1A 4M
+Case 13: 4A 5M
+Case 14: 1A 1M
+Case 15: 3A 5M
+Case 16: impossible
+Case 17: 6A 1M 1A 2M
+Case 18: 6A 2M 1A 1M
+Case 19: 2M
+Case 20: 3A 6M
+Case 21: 10M
+Case 22: 30481A 8M
+Case 23: 20342A 1M 1A 3M 1A 10M
+Case 24: 25400A 9M
