@@ -38,12 +38,12 @@ Detail of NTTU Programming Contest
 5. 生加強測資
 
 **題目分類**
+p.s. 避免大數、PY 內建模組可速解之情況(像是 combinations ,請查 py itertools )
 - level 1: 簡單邏輯、數學，請避免陷阱或矩陣等使用
 - level 2: 需要理解特殊需求，矩陣、cmp
 - level 3: 需要資料結構、字串處理
 - level 4: 需要演算法
 - level 5: 多種混合處理
-p.s. 避免大數、PY 內建模組可速解之情況(像是 combinations ,請查 py itertools )
 
 ### 餐飲準備
 報名截止前先確定好預期訂購店家之名單
